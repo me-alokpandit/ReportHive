@@ -1,0 +1,297 @@
+.NewsDet{
+    height: 500px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+
+.NewsDet2
+{
+
+     height: 300px;
+    width: 80%;
+    background-color:#C1C1C3;
+    margin: 30px 30px auto;
+    margin-left: 120px;
+
+    
+}
+
+.n1{
+
+     height: 80px;
+    width: 100%;
+    background-color:#C1C1C3;
+  
+   text-align: center;
+   font-size: 30px;
+font-weight: bold;
+
+font-family: Arial, Helvetica, sans-serif;   
+line-height:80px;
+    
+    
+}
+
+
+
+.n2{
+
+     height: 250px;
+    width: 70%;
+    background-color:#C1C1C3;
+     margin-left: 140px;
+     background-image: url(newsdetails.png);
+     background-size: cover;
+     background-repeat: no-repeat;
+
+   
+}
+
+
+
+.TopNav{
+    background-color:#7F0000;
+    color:white;
+   margin-top: 50px;
+    height: 35px;
+    width: 100%;
+
+    }
+
+.a{
+     height: 35px;
+    width: 60%;
+  line-height: 30px;
+   padding-left: 300px;
+   box-sizing: border-box;
+    float: left;
+   background-color: #7F0000;
+
+}
+
+.b{
+     height: 35px;
+    width: 40%;
+    float: left;
+    background-color: aquamarine;
+    background-color: #7F0000;
+    
+  padding-left: 20px;
+  
+}
+
+.Logo{
+    background-color: whitesmoke;
+    height: 100px;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family:Algerian;
+    line-height: 90px;
+   
+   
+  
+}
+
+.Slid
+{
+    height: 400px;
+    width: 100%;
+    background-color: aqua;
+    margin-top: 10px;
+}
+
+
+
+
+.slid1{
+     height: 400px;
+    width: 60%;
+    background-color: aqua;
+    float: left;
+  
+    
+}
+
+
+.slid2{
+     height: 400px;
+    width: 40%;
+    background-color:whitesmoke ;
+    float: left;
+    
+}
+
+.carousel-item{
+    height: 400px;
+    width: 100%;
+      background-size: cover;
+      background-size: 100%;
+  
+     
+  
+}
+
+
+.s1{
+    height: 50px;
+    width: 100%;
+    background-color:#F9F9FB;
+    color:black;
+    font-size:30px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 90px;
+    box-sizing: border-box;
+   
+  
+   
+}
+
+
+.s2{
+
+      height: 150px;
+    width: 100%;
+    background-color:#F9F9FB ;
+   
+     
+}
+
+.s3{
+
+      height: 150px;
+    width: 100%;
+    background-color:#F9F9FB;
+    
+}
+
+
+
+.sl3
+{
+
+      height: 170px;
+    width: 50%;
+    background-color: blue;
+     background-image: url(images/headline2.jpg);
+        margin: 10px 10px auto;
+        float: left;
+         border: 1px solid black;
+}
+
+.sl4
+{
+
+      height: 170px;
+    width: 40%;
+    background-color:whitesmoke;
+       margin: 10px 10px auto;
+      float: left;
+      padding-left: 20px;
+      box-sizing: border-box;
+      border: 1px solid black;
+}
+.sl5
+{
+
+height: 160px;
+    width: 50%;
+    background-color: aquamarine;
+     background-image: url(images/headline3.jpg);
+       margin: 10px 10px auto;
+       float: left;
+        border: 1px solid black;
+}
+
+.sl6
+{
+
+height: 160px;
+    width: 40%;
+    background-color:whitesmoke;
+       margin: 10px 10px auto;
+       float: left;
+        padding-left: 20px;
+      box-sizing: border-box;
+       border: 1px solid black;
+}
+
+.form-button1
+{
+  height: 35px;
+  width: 50%;
+  background-color:#7F0000;
+  text-align: center;
+  margin-top: 18px;
+  line-height: 30px;
+  color: aliceblue;
+}
+
+.Admin
+{
+
+height: 370px;
+width: 100%;
+background-color: #C1C1C3;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.Adm{
+  height: 330px;
+  background-color:whitesmoke;
+  width: 38%;
+   text-align: center;
+   line-height: 60px;
+ border-radius: 10px;
+ font-weight: bold;
+ font-size: 30px;
+ font-family: Arial, Helvetica, sans-serif;
+ 
+
+}
+
+
+.emi
+{
+  height: 40px;
+  width: 70%;
+  background-color:whitesmoke;
+   font-size: 13px;
+    text-transform: capitalize;
+   padding-left: 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+
+
+.pass
+{
+  height: 40px;
+  width: 70%;
+  background-color: whitesmoke;
+  font-size: 13px;
+  text-transform: capitalize;
+     padding-left: 10px;
+   margin-top: 30px;
+   border-radius: 10px;
+}
+
+.form-button
+{
+  height: 38px;
+  width: 30%;
+  background-color:#7F0000;
+  text-align: center;
+  margin-top: 40px;
+  line-height: 30px;
+  color: aliceblue;
+}
